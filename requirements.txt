@@ -1,7 +1,7 @@
 pip>=9.0.1
 Flask==0.12.2
-requests
 flask_wtf
 wtforms
 flask_navigation
-unirest
+json
+http.client

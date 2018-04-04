@@ -1,12 +1,9 @@
 from flask import Flask
 from flask import render_template, request
 from flask_navigation import Navigation
-
 from flask_wtf import FlaskForm
 from wtforms import TextField, validators
-import requests
-import http.client, urllib.request, urllib.parse, urllib.error, base64
-from pprint import pprint
+import http.client
 import json
 
 
