@@ -3,5 +3,4 @@ Flask==0.12.2
 flask_wtf
 wtforms
 flask_navigation
-json
 http.client
